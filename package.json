@@ -1,0 +1,27 @@
+{
+  "name": "gulp-ejs-locals",
+  "version": "0.0.1",
+  "description": "Gulp plugin for ejs-locals support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/demchenkoe/gulp-ejs-locals.git"
+  },
+  "keywords": [
+    "gulp",
+    "ejs-locals"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/gulp-ejs-locals/issues"
+  },
+  "dependencies": {
+    "through2": "~0.6.3",
+    "gulp-util": "~3.0.3",
+    "ejs-locals": "git://github.com/demchenkoe/ejs-locals"
+  }
+}
